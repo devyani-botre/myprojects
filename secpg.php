@@ -116,7 +116,7 @@
 </head>
 <body style="background-color: bisque;">
     <div class="sidebar">
-        <a href="firstpg.php">Home</a>
+        <a href="index.php">Home</a>
         <a href="info.php">Information about Florent</a>
         <a href="guide.php">Plantation Guide</a>
         <a href="cancelord.php">Your Order History</a>
